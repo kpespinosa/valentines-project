@@ -5,8 +5,8 @@ var quotes = [
     },
 
     {
-        content: 'another random quote',
-        author: 'another random person'
+        content: 'Love is like Computer Science, even though you know that its so hard, you still want it so bad.',
+        author: 'J.C. Ambrad'
     },
 
     {
