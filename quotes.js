@@ -10,7 +10,17 @@ var quotes = [
     },
 
     {
-        content: 'this is a sample quote',
-        author: 'sample author'
-    }
+        content: 'Never close your lips to those whom you have opened your heart. ',
+        author: 'Charles Dickens'
+    },
+
+    {
+        content: 'Loving is never a waste of time.'
+        author: 'Astrid Alauda'
+    },
+
+    {
+        content: 'Love is the poetry of the senses.'
+        author: 'Honore de Balzac'
+    },
 ];
