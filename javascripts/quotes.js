@@ -5,7 +5,7 @@ var quotes = [
     },
 
     {
-        content: 'Love is utterly blind',
+        content: 'Love is utterly blind.',
         author: 'Anonymous'
     },
 
