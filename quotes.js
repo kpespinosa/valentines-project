@@ -1,7 +1,7 @@
 var quotes = [
     {
         content: 'love is an action word.',
-        author: '- webster'
+        author: 'webster'
     }
         content: 'Love is utterly blind',
         author: 'Anonymous'
