@@ -16,6 +16,7 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
+    font-family: "Quicksand", "QuicksandRegular", sans-serif;
     line-height: 1;
 }
 
@@ -26,8 +27,8 @@ main {
     justify-content: center;
     align-items: center;
     flex-grow: 1;
-    padding-left: 10vw;
-    padding-right: 10vw;
+    padding-left: 15vw;
+    padding-right: 15vw;
 }
 
 
@@ -38,7 +39,7 @@ h1 {
 
 
 h2 {
-    margin-top: 3rem;
+    margin-top: 4rem;
     font-size: 2rem;
     text-transform: uppercase;
 }
