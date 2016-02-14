@@ -10,7 +10,7 @@ var quotes = [
     },
 
     {
-        content: 'Never close your lips to those whom you have opened your heart. ',
+        content: 'Never close your lips to those whom you have opened your heart.',
         author: 'Charles Dickens'
     },
 
