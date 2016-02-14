@@ -1,0 +1,76 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+    font-size: 62.5%;
+}
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    font-family: "Quicksand", "QuicksandRegular", sans-serif;
+    line-height: 1.25;
+    color: #fff;
+    background-color: #ff4081;
+}
+
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    padding-left: 15vw;
+    padding-right: 15vw;
+    position: relative;
+}
+
+
+h1 {
+    font-size: 5rem;
+    text-align: center;
+}
+
+
+h2 {
+    margin-top: 4rem;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+
+#random {
+    width: 4rem;
+    height: 4rem;
+    border: none;
+    position: absolute;
+    bottom: 4rem;
+    left: calc(50% - 2rem);
+    font-size: 0;
+    border-radius: 50%;
+    background: url("../images/dice.png") center center no-repeat;
+    background-size: 50%;
+    cursor: pointer;
+    outline: none;
+    transform: rotate(10deg);
+    transition: transform 250ms ease-out, background-color 250ms ease-out;
+}
+
+#random:hover,
+#random:focus {
+    background-color: #c2185b;
+    transform: rotate(-10deg);
+}
+
+#random:active {
+    transform: rotate(-10deg) scale(0.8);
+}

@@ -1,9 +1,11 @@
 var quotes = [
     {
-        content: 'love is an action word.',
+        content: 'Love is an action word.',
         author: 'webster'
-    }
-        content: 'Love is utterly blind',
+    },
+
+    {
+        content: 'Love is utterly blind.',
         author: 'Anonymous'
     },
 
@@ -18,12 +20,12 @@ var quotes = [
     },
 
     {
-        content: 'Loving is never a waste of time.'
+        content: 'Loving is never a waste of time.',
         author: 'Astrid Alauda'
     },
 
     {
-        content: 'Love is the poetry of the senses.'
+        content: 'Love is the poetry of the senses.',
         author: 'Honore de Balzac'
-    },
+    }
 ];
