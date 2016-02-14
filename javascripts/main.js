@@ -1,4 +1,17 @@
-var index = Math.floor(Math.random() * quotes.length);
-var quote = quotes[index];
+var $content = document.getElementById('content');
+var $author = document.getElementById('author');
 
-document.write(quote.content);
+
+function getRandomQuote() {
+    var index = Math.floor(Math.random() * quotes.length);
+    return quotes[index];
+}
+
+
+function renderQuote(quote) {
+    $content.textContent = quote.content;
+    $author.textContent = quote.author;
+}
+
+
+renderQuote(getRandomQuote());
