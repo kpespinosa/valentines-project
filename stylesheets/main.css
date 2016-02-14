@@ -54,7 +54,7 @@ h2 {
     border: none;
     position: absolute;
     bottom: 4rem;
-    left: calc(50%);
+    left: calc(50% - 2rem);
     font-size: 0;
     border-radius: 50%;
     background: url("../images/dice.png") center center no-repeat;
