@@ -30,42 +30,42 @@ var quotes = [
     },
 
     {
-        content: 'Love is a deeper season than reason; my sweet one'
+        content: 'Love is a deeper season than reason; my sweet one',
         author: 'EE Cummings'
     },
 
     {
-        content: 'The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves'
+        content: 'The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves',
         author: 'Victor Hugo'
     },
 
     {
-        content: 'What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.'
+        content: 'What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.',
         author: 'Helen Keller'
     },
 
     {
-        content: 'To those who have given up on love: I say, "Trust life a little bit."'
+        content: 'To those who have given up on love: I say, "Trust life a little bit."',
         author: 'Maya Angelou'
     },
 
     {
-        content: 'You must love in such a way that the person you love feels free.'
+        content: 'You must love in such a way that the person you love feels free.',
         author: 'Thich Nhat Hanh'
     },
 
     {
-        content: 'Trust your heart if the seas catch fire, live by love though the stars walk backward.'
+        content: 'Trust your heart if the seas catch fire, live by love though the stars walk backward.',
         author: 'EE Cummings'
     },
 
     {
-        content: 'Love is the most beautiful thing to have, hardest thing to earn and most painful thing to lose.'
+        content: 'Love is the most beautiful thing to have, hardest thing to earn and most painful thing to lose.',
         author: 'Anonymous'
     },
 
     {
-        content: "Love seeketh not itself to please, nor for itself hath any care, but for another gives its ease, and builds a Heaven in Hell's despair"
+        content: "Love seeketh not itself to please, nor for itself hath any care, but for another gives its ease, and builds a Heaven in Hell's despair",
         author: 'Unknown'
     }
 ];
