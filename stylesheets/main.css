@@ -17,6 +17,8 @@ body {
     flex-direction: column;
     height: 100vh;
     font-family: "Quicksand", "QuicksandRegular", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
     line-height: 1.25;
     color: #fff;
     background-color: #ff4081;
