@@ -1,5 +1,6 @@
 var $content = document.getElementById('content');
 var $author = document.getElementById('author');
+var $random = document.getElementById('random');
 
 
 function getRandomQuote() {
@@ -15,3 +16,7 @@ function renderQuote(quote) {
 
 
 renderQuote(getRandomQuote());
+
+$random.addEventListener('click', function() {
+    renderQuote(getRandomQuote());
+});
