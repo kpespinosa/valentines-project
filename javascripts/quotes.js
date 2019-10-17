@@ -10,7 +10,7 @@ var quotes = [
     },
 
     {
-        content: 'Love is like Computer Science, even though you know that it's so hard, you still want it so badly.',
+        content: 'Love is like Computer Science, even though you know that it\'s so hard, you still want it so badly.',
         author: 'J.C. Ambrad'
     },
 
